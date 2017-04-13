@@ -1,0 +1,5 @@
+It's a c++ library for Genomic data, FASTA file reader is also contained in this library. Might be a nice library for this project
+http://gsuffix.sourceforge.net/gsuffix-docs/index.html
+
+Another Python library I mentioned the other day is not as obvious as this one, since it uses Numpy array to store the reads.
+https://academic.oup.com/bioinformatics/article/31/2/166/2366196/HTSeq-a-Python-framework-to-work-with-high
